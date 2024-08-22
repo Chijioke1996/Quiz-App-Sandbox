@@ -1,0 +1,1276 @@
+[
+    {
+        "topic": "tech",
+        "question": "What is the colour of the sky?",
+        "possibleAnswers": [
+            "Green",
+            "Blue",
+            "Red",
+            "White"
+        ],
+        "correctAnswer": "Blue"
+    },
+    {
+        "topic": "science",
+        "question": "What branch of science studies life?",
+        "possibleAnswers": [
+            "Biology",
+            "Agriculture",
+            "Engineering"
+        ],
+        "correctAnswer": "Biology"
+    },
+    {
+        "topic": "aviation",
+        "question": "Another name for a spin roll is what?",
+        "possibleAnswers": [
+            "Barrel roll",
+            "Easy glide",
+            "Bumper manoeuvre"
+        ],
+        "correctAnswer": "Barrel roll"
+    },
+    {
+        "topic": "geography",
+        "question": "What is the capital of Nigeria?",
+        "possibleAnswers": [
+            "Lagos",
+            "Abuja",
+            "Kano",
+            "Port Harcourt"
+        ],
+        "correctAnswer": "Abuja"
+    },
+    {
+        "topic": "history",
+        "question": "Who was the first president of Nigeria?",
+        "possibleAnswers": [
+            "Nnamdi Azikiwe",
+            "Obafemi Awolowo",
+            "Yakubu Gowon",
+            "Olusegun Obasanjo"
+        ],
+        "correctAnswer": "Nnamdi Azikiwe"
+    },
+    {
+        "topic": "sports",
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "possibleAnswers": [
+            "Brazil",
+            "Germany",
+            "France",
+            "Argentina"
+        ],
+        "correctAnswer": "France"
+    },
+    {
+        "topic": "entertainment",
+        "question": "Who is known as the King of Pop?",
+        "possibleAnswers": [
+            "Elvis Presley",
+            "Michael Jackson",
+            "Prince",
+            "Madonna"
+        ],
+        "correctAnswer": "Michael Jackson"
+    },
+    {
+        "topic": "literature",
+        "question": "Who wrote the novel 'Things Fall Apart'?",
+        "possibleAnswers": [
+            "Chinua Achebe",
+            "Wole Soyinka",
+            "Ngugi wa Thiong'o",
+            "Chimamanda Adichie"
+        ],
+        "correctAnswer": "Chinua Achebe"
+    },
+    {
+        "topic": "economics",
+        "question": "What is the currency of Nigeria?",
+        "possibleAnswers": [
+            "Dollar",
+            "Pound",
+            "Naira",
+            "Euro"
+        ],
+        "correctAnswer": "Naira"
+    },
+    {
+        "topic": "music",
+        "question": "Which Nigerian artist released the song 'Ye'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Burna Boy",
+            "Davido",
+            "Olamide"
+        ],
+        "correctAnswer": "Burna Boy"
+    },
+    {
+        "topic": "tech",
+        "question": "What does CPU stand for in computing?",
+        "possibleAnswers": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Programming Unit",
+            "Computer Processing Unit"
+        ],
+        "correctAnswer": "Central Processing Unit"
+    },
+    {
+        "topic": "science",
+        "question": "What is the chemical symbol for gold?",
+        "possibleAnswers": [
+            "Au",
+            "Ag",
+            "Pb",
+            "Fe"
+        ],
+        "correctAnswer": "Au"
+    },
+    {
+        "topic": "aviation",
+        "question": "What is the primary function of an aircraft's ailerons?",
+        "possibleAnswers": [
+            "To control roll",
+            "To control pitch",
+            "To control yaw",
+            "To increase speed"
+        ],
+        "correctAnswer": "To control roll"
+    },
+    {
+        "topic": "geography",
+        "question": "Which river is the longest in the world?",
+        "possibleAnswers": [
+            "Amazon",
+            "Nile",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "correctAnswer": "Nile"
+    },
+    {
+        "topic": "history",
+        "question": "Who was the first Emperor of China?",
+        "possibleAnswers": [
+            "Qin Shi Huang",
+            "Liu Bang",
+            "Sun Yat-sen",
+            "Tang Taizong"
+        ],
+        "correctAnswer": "Qin Shi Huang"
+    },
+    {
+        "topic": "sports",
+        "question": "In which sport would you perform a slam dunk?",
+        "possibleAnswers": [
+            "Basketball",
+            "Volleyball",
+            "Soccer",
+            "Tennis"
+        ],
+        "correctAnswer": "Basketball"
+    },
+    {
+        "topic": "entertainment",
+        "question": "Which movie won the Academy Award for Best Picture in 1994?",
+        "possibleAnswers": [
+            "The Shawshank Redemption",
+            "Forrest Gump",
+            "Pulp Fiction",
+            "The Lion King"
+        ],
+        "correctAnswer": "Forrest Gump"
+    },
+    {
+        "topic": "literature",
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "possibleAnswers": [
+            "William Shakespeare",
+            "Christopher Marlowe",
+            "Ben Jonson",
+            "John Milton"
+        ],
+        "correctAnswer": "William Shakespeare"
+    },
+    {
+        "topic": "economics",
+        "question": "What is GDP an acronym for in economics?",
+        "possibleAnswers": [
+            "Gross Domestic Product",
+            "General Domestic Product",
+            "Gross Development Product",
+            "General Development Product"
+        ],
+        "correctAnswer": "Gross Domestic Product"
+    },
+    {
+        "topic": "music",
+        "question": "Which Beatles album was released in 1967 and features the song 'Lucy in the Sky with Diamonds'?",
+        "possibleAnswers": [
+            "Abbey Road",
+            "Rubber Soul",
+            "Sgt. Pepper's Lonely Hearts Club Band",
+            "The White Album"
+        ],
+        "correctAnswer": "Sgt. Pepper's Lonely Hearts Club Band"
+    },
+    {
+        "topic": "tech",
+        "question": "Which company developed the first computer mouse?",
+        "possibleAnswers": [
+            "Apple",
+            "Microsoft",
+            "Xerox",
+            "IBM"
+        ],
+        "correctAnswer": "Xerox"
+    },
+    {
+        "topic": "science",
+        "question": "What planet is known as the Red Planet?",
+        "possibleAnswers": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswer": "Mars"
+    },
+    {
+        "topic": "aviation",
+        "question": "What is the name of the flight control surface that controls an aircraft's yaw?",
+        "possibleAnswers": [
+            "Elevator",
+            "Aileron",
+            "Rudder",
+            "Flap"
+        ],
+        "correctAnswer": "Rudder"
+    },
+    {
+        "topic": "geography",
+        "question": "Which desert is the largest in the world?",
+        "possibleAnswers": [
+            "Sahara",
+            "Gobi",
+            "Antarctic",
+            "Kalahari"
+        ],
+        "correctAnswer": "Antarctic"
+    },
+    {
+        "topic": "history",
+        "question": "What year did the Berlin Wall fall?",
+        "possibleAnswers": [
+            "1989",
+            "1987",
+            "1991",
+            "1985"
+        ],
+        "correctAnswer": "1989"
+    },
+    {
+        "topic": "sports",
+        "question": "Which sport uses a puck?",
+        "possibleAnswers": [
+            "Hockey",
+            "Football",
+            "Tennis",
+            "Golf"
+        ],
+        "correctAnswer": "Hockey"
+    },
+    {
+        "topic": "entertainment",
+        "question": "Which actor played the character Jack Dawson in *Titanic*?",
+        "possibleAnswers": [
+            "Leonardo DiCaprio",
+            "Brad Pitt",
+            "Johnny Depp",
+            "Tom Cruise"
+        ],
+        "correctAnswer": "Leonardo DiCaprio"
+    },
+    {
+        "topic": "literature",
+        "question": "What is the title of the first book in J.K. Rowling's *Harry Potter* series?",
+        "possibleAnswers": [
+            "Harry Potter and the Philosopher's Stone",
+            "Harry Potter and the Chamber of Secrets",
+            "Harry Potter and the Prisoner of Azkaban",
+            "Harry Potter and the Goblet of Fire"
+        ],
+        "correctAnswer": "Harry Potter and the Philosopher's Stone"
+    },
+    {
+        "topic": "economics",
+        "question": "What does the term 'inflation' refer to in economics?",
+        "possibleAnswers": [
+            "Increase in prices",
+            "Decrease in unemployment",
+            "Increase in wages",
+            "Decrease in interest rates"
+        ],
+        "correctAnswer": "Increase in prices"
+    },
+    {
+        "topic": "music",
+        "question": "Which artist is known for the hit song 'Rolling in the Deep'?",
+        "possibleAnswers": [
+            "Adele",
+            "Beyoncé",
+            "Rihanna",
+            "Lady Gaga"
+        ],
+        "correctAnswer": "Adele"
+    },
+    {
+        "topic": "tech",
+        "question": "Which company developed the first computer mouse?",
+        "possibleAnswers": [
+            "Apple",
+            "Microsoft",
+            "Xerox",
+            "IBM"
+        ],
+        "correctAnswer": "Xerox"
+    },
+    {
+        "topic": "science",
+        "question": "What planet is known as the Red Planet?",
+        "possibleAnswers": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correctAnswer": "Mars"
+    },
+    {
+        "topic": "aviation",
+        "question": "What is the name of the flight control surface that controls an aircraft's yaw?",
+        "possibleAnswers": [
+            "Elevator",
+            "Aileron",
+            "Rudder",
+            "Flap"
+        ],
+        "correctAnswer": "Rudder"
+    },
+    {
+        "topic": "geography",
+        "question": "Which desert is the largest in the world?",
+        "possibleAnswers": [
+            "Sahara",
+            "Gobi",
+            "Antarctic",
+            "Kalahari"
+        ],
+        "correctAnswer": "Antarctic"
+    },
+    {
+        "topic": "history",
+        "question": "What year did the Berlin Wall fall?",
+        "possibleAnswers": [
+            "1989",
+            "1987",
+            "1991",
+            "1985"
+        ],
+        "correctAnswer": "1989"
+    },
+    {
+        "topic": "sports",
+        "question": "Which sport uses a puck?",
+        "possibleAnswers": [
+            "Hockey",
+            "Football",
+            "Tennis",
+            "Golf"
+        ],
+        "correctAnswer": "Hockey"
+    },
+    {
+        "topic": "entertainment",
+        "question": "Which actor played the character Jack Dawson in *Titanic*?",
+        "possibleAnswers": [
+            "Leonardo DiCaprio",
+            "Brad Pitt",
+            "Johnny Depp",
+            "Tom Cruise"
+        ],
+        "correctAnswer": "Leonardo DiCaprio"
+    },
+    {
+        "topic": "literature",
+        "question": "What is the title of the first book in J.K. Rowling's *Harry Potter* series?",
+        "possibleAnswers": [
+            "Harry Potter and the Philosopher's Stone",
+            "Harry Potter and the Chamber of Secrets",
+            "Harry Potter and the Prisoner of Azkaban",
+            "Harry Potter and the Goblet of Fire"
+        ],
+        "correctAnswer": "Harry Potter and the Philosopher's Stone"
+    },
+    {
+        "topic": "economics",
+        "question": "What does the term 'inflation' refer to in economics?",
+        "possibleAnswers": [
+            "Increase in prices",
+            "Decrease in unemployment",
+            "Increase in wages",
+            "Decrease in interest rates"
+        ],
+        "correctAnswer": "Increase in prices"
+    },
+    {
+        "topic": "music",
+        "question": "Which artist is known for the hit song 'Rolling in the Deep'?",
+        "possibleAnswers": [
+            "Adele",
+            "Beyoncé",
+            "Rihanna",
+            "Lady Gaga"
+        ],
+        "correctAnswer": "Adele"
+    },
+    {
+        "topic": "nigeria",
+        "question": "What is the official language of Nigeria?",
+        "possibleAnswers": [
+            "English",
+            "Hausa",
+            "Yoruba",
+            "Igbo"
+        ],
+        "correctAnswer": "English"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which city is the commercial capital of Nigeria?",
+        "possibleAnswers": [
+            "Lagos",
+            "Abuja",
+            "Port Harcourt",
+            "Kano"
+        ],
+        "correctAnswer": "Lagos"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Who is the current President of Nigeria?",
+        "possibleAnswers": [
+            "Muhammadu Buhari",
+            "Goodluck Jonathan",
+            "Olusegun Obasanjo",
+            "Atiku Abubakar"
+        ],
+        "correctAnswer": "Muhammadu Buhari"
+    },
+    {
+        "topic": "math",
+        "question": "What is 8 + 6?",
+        "possibleAnswers": [
+            "12",
+            "14",
+            "16",
+            "18"
+        ],
+        "correctAnswer": "14"
+    },
+    {
+        "topic": "math",
+        "question": "What is 15 - 7?",
+        "possibleAnswers": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correctAnswer": "8"
+    },
+    {
+        "topic": "math",
+        "question": "What is 9 × 3?",
+        "possibleAnswers": [
+            "24",
+            "27",
+            "30",
+            "33"
+        ],
+        "correctAnswer": "27"
+    },
+    {
+        "topic": "math",
+        "question": "What is 20 ÷ 4?",
+        "possibleAnswers": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correctAnswer": "5"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which Nigerian state is known as the 'Sunshine State'?",
+        "possibleAnswers": [
+            "Lagos",
+            "Ondo",
+            "Ekiti",
+            "Enugu"
+        ],
+        "correctAnswer": "Ondo"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which river is the longest in Nigeria?",
+        "possibleAnswers": [
+            "Niger River",
+            "Benue River",
+            "Volta River",
+            "Zambezi River"
+        ],
+        "correctAnswer": "Niger River"
+    },
+    {
+        "topic": "nigeria",
+        "question": "What is the currency of Nigeria?",
+        "possibleAnswers": [
+            "Naira",
+            "Dollar",
+            "Pound",
+            "Euro"
+        ],
+        "correctAnswer": "Naira"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which Nigerian city is known for its oil production?",
+        "possibleAnswers": [
+            "Port Harcourt",
+            "Abuja",
+            "Lagos",
+            "Kano"
+        ],
+        "correctAnswer": "Port Harcourt"
+    },
+    {
+        "topic": "math",
+        "question": "What is 7 × 7?",
+        "possibleAnswers": [
+            "42",
+            "49",
+            "56",
+            "63"
+        ],
+        "correctAnswer": "49"
+    },
+    {
+        "topic": "math",
+        "question": "What is 14 ÷ 2?",
+        "possibleAnswers": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correctAnswer": "7"
+    },
+    {
+        "topic": "math",
+        "question": "What is 12 - 4 × 2?",
+        "possibleAnswers": [
+            "8",
+            "10",
+            "12",
+            "14"
+        ],
+        "correctAnswer": "4"
+    },
+    {
+        "topic": "math",
+        "question": "What is the square root of 49?",
+        "possibleAnswers": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": "7"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which Nigerian musician is known for the hit song 'Fall'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Burna Boy",
+            "Olamide"
+        ],
+        "correctAnswer": "Davido"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which state in Nigeria is known as the 'Home of Peace and Tourism'?",
+        "possibleAnswers": [
+            "Kano",
+            "Jos",
+            "Enugu",
+            "Benin"
+        ],
+        "correctAnswer": "Jos"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which Nigerian city is known for its oil production?",
+        "possibleAnswers": [
+            "Port Harcourt",
+            "Abuja",
+            "Lagos",
+            "Kano"
+        ],
+        "correctAnswer": "Port Harcourt"
+    },
+    {
+        "topic": "math",
+        "question": "What is 7 × 7?",
+        "possibleAnswers": [
+            "42",
+            "49",
+            "56",
+            "63"
+        ],
+        "correctAnswer": "49"
+    },
+    {
+        "topic": "math",
+        "question": "What is 14 ÷ 2?",
+        "possibleAnswers": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correctAnswer": "7"
+    },
+    {
+        "topic": "math",
+        "question": "What is 12 - 4 × 2?",
+        "possibleAnswers": [
+            "8",
+            "10",
+            "12",
+            "14"
+        ],
+        "correctAnswer": "4"
+    },
+    {
+        "topic": "math",
+        "question": "What is the square root of 49?",
+        "possibleAnswers": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": "7"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which Nigerian musician is known for the hit song 'Fall'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Burna Boy",
+            "Olamide"
+        ],
+        "correctAnswer": "Davido"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which state in Nigeria is known as the 'Home of Peace and Tourism'?",
+        "possibleAnswers": [
+            "Kano",
+            "Jos",
+            "Enugu",
+            "Benin"
+        ],
+        "correctAnswer": "Jos"
+    },
+    {
+        "topic": "music",
+        "question": "Which artist released the album *25* in 2015?",
+        "possibleAnswers": [
+            "Adele",
+            "Taylor Swift",
+            "Ed Sheeran",
+            "Rihanna"
+        ],
+        "correctAnswer": "Adele"
+    },
+    {
+        "topic": "music",
+        "question": "Which Nigerian artist is famous for the song 'Joro'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Olamide",
+            "Burnaboy"
+        ],
+        "correctAnswer": "Wizkid"
+    },
+    {
+        "topic": "music",
+        "question": "Which song by Michael Jackson is known for its iconic music video featuring a zombie dance?",
+        "possibleAnswers": [
+            "Billie Jean",
+            "Thriller",
+            "Beat It",
+            "Smooth Criminal"
+        ],
+        "correctAnswer": "Thriller"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which Nigerian city is known for its oil production?",
+        "possibleAnswers": [
+            "Port Harcourt",
+            "Abuja",
+            "Lagos",
+            "Kano"
+        ],
+        "correctAnswer": "Port Harcourt"
+    },
+    {
+        "topic": "math",
+        "question": "What is 7 × 7?",
+        "possibleAnswers": [
+            "42",
+            "49",
+            "56",
+            "63"
+        ],
+        "correctAnswer": "49"
+    },
+    {
+        "topic": "math",
+        "question": "What is 14 ÷ 2?",
+        "possibleAnswers": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correctAnswer": "7"
+    },
+    {
+        "topic": "math",
+        "question": "What is 12 - 4 × 2?",
+        "possibleAnswers": [
+            "8",
+            "10",
+            "12",
+            "14"
+        ],
+        "correctAnswer": "4"
+    },
+    {
+        "topic": "math",
+        "question": "What is the square root of 49?",
+        "possibleAnswers": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": "7"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which Nigerian musician is known for the hit song 'Fall'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Burna Boy",
+            "Olamide"
+        ],
+        "correctAnswer": "Davido"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which state in Nigeria is known as the 'Home of Peace and Tourism'?",
+        "possibleAnswers": [
+            "Kano",
+            "Jos",
+            "Enugu",
+            "Benin"
+        ],
+        "correctAnswer": "Jos"
+    },
+    {
+        "topic": "music",
+        "question": "Which artist released the album *25* in 2015?",
+        "possibleAnswers": [
+            "Adele",
+            "Taylor Swift",
+            "Ed Sheeran",
+            "Rihanna"
+        ],
+        "correctAnswer": "Adele"
+    },
+    {
+        "topic": "music",
+        "question": "Which Nigerian artist is famous for the song 'Joro'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Olamide",
+            "Burna Boy"
+        ],
+        "correctAnswer": "Wizkid"
+    },
+    {
+        "topic": "music",
+        "question": "Which song by Michael Jackson is known for its iconic music video featuring a zombie dance?",
+        "possibleAnswers": [
+            "Billie Jean",
+            "Thriller",
+            "Beat It",
+            "Smooth Criminal"
+        ],
+        "correctAnswer": "Thriller"
+    },
+    {
+        "topic": "nigerian music",
+        "question": "Which Nigerian artist released the hit song 'Ye' in 2018?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Burna Boy",
+            "Davido",
+            "Olamide"
+        ],
+        "correctAnswer": "Burna Boy"
+    },
+    {
+        "topic": "nigerian music",
+        "question": "Which Nigerian artist is known for the song 'Ojuelegba'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Burna Boy",
+            "Yemi Alade"
+        ],
+        "correctAnswer": "Wizkid"
+    },
+    {
+        "topic": "nigerian music",
+        "question": "Which Nigerian artist collaborated with Drake on the song 'One Dance'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Olamide",
+            "Santi"
+        ],
+        "correctAnswer": "Wizkid"
+    },
+    {
+        "topic": "nigerian music",
+        "question": "Which song by Davido features the lyric 'If I tell you say I love you, oh'?",
+        "possibleAnswers": [
+            "If",
+            "Fall",
+            "Assurance",
+            "Fia"
+        ],
+        "correctAnswer": "If"
+    },
+    {
+        "topic": "nigerian music",
+        "question": "Which female Nigerian artist is known for the song 'Johnny'?",
+        "possibleAnswers": [
+            "Simi",
+            "Tiwa Savage",
+            "Yemi Alade",
+            "Waje"
+        ],
+        "correctAnswer": "Yemi Alade"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which Nigerian city is known for its oil production?",
+        "possibleAnswers": [
+            "Port Harcourt",
+            "Abuja",
+            "Lagos",
+            "Kano"
+        ],
+        "correctAnswer": "Port Harcourt"
+    },
+    {
+        "topic": "math",
+        "question": "What is 7 × 7?",
+        "possibleAnswers": [
+            "42",
+            "49",
+            "56",
+            "63"
+        ],
+        "correctAnswer": "49"
+    },
+    {
+        "topic": "math",
+        "question": "What is 14 ÷ 2?",
+        "possibleAnswers": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correctAnswer": "7"
+    },
+    {
+        "topic": "math",
+        "question": "What is 12 - 4 × 2?",
+        "possibleAnswers": [
+            "8",
+            "10",
+            "12",
+            "14"
+        ],
+        "correctAnswer": "4"
+    },
+    {
+        "topic": "math",
+        "question": "What is the square root of 49?",
+        "possibleAnswers": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": "7"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which Nigerian musician is known for the hit song 'Fall'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Burna Boy",
+            "Olamide"
+        ],
+        "correctAnswer": "Davido"
+    },
+    {
+        "topic": "nigeria",
+        "question": "Which state in Nigeria is known as the 'Home of Peace and Tourism'?",
+        "possibleAnswers": [
+            "Kano",
+            "Jos",
+            "Enugu",
+            "Benin"
+        ],
+        "correctAnswer": "Jos"
+    },
+    {
+        "topic": "music",
+        "question": "Which artist released the album *25* in 2015?",
+        "possibleAnswers": [
+            "Adele",
+            "Taylor Swift",
+            "Ed Sheeran",
+            "Rihanna"
+        ],
+        "correctAnswer": "Adele"
+    },
+    {
+        "topic": "music",
+        "question": "Which Nigerian artist is famous for the song 'Joro'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Olamide",
+            "Burna Boy"
+        ],
+        "correctAnswer": "Wizkid"
+    },
+    {
+        "topic": "music",
+        "question": "Which song by Michael Jackson is known for its iconic music video featuring a zombie dance?",
+        "possibleAnswers": [
+            "Billie Jean",
+            "Thriller",
+            "Beat It",
+            "Smooth Criminal"
+        ],
+        "correctAnswer": "Thriller"
+    },
+    {
+        "topic": "nigerian music",
+        "question": "Which Nigerian artist released the hit song 'Ye' in 2018?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Burna Boy",
+            "Davido",
+            "Olamide"
+        ],
+        "correctAnswer": "Burna Boy"
+    },
+    {
+        "topic": "nigerian music",
+        "question": "Which Nigerian artist is known for the song 'Ojuelegba'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Burna Boy",
+            "Yemi Alade"
+        ],
+        "correctAnswer": "Wizkid"
+    },
+    {
+        "topic": "nigerian music",
+        "question": "Which Nigerian artist collaborated with Drake on the song 'One Dance'?",
+        "possibleAnswers": [
+            "Wizkid",
+            "Davido",
+            "Olamide",
+            "Santi"
+        ],
+        "correctAnswer": "Wizkid"
+    },
+    {
+        "topic": "nigerian music",
+        "question": "Which song by Davido features the lyric 'If I tell you say I love you, oh'?",
+        "possibleAnswers": [
+            "If",
+            "Fall",
+            "Assurance",
+            "Fia"
+        ],
+        "correctAnswer": "If"
+    },
+    {
+        "topic": "nigerian music",
+        "question": "Which female Nigerian artist is known for the song 'Johnny'?",
+        "possibleAnswers": [
+            "Simi",
+            "Tiwa Savage",
+            "Yemi Alade",
+            "Waje"
+        ],
+        "correctAnswer": "Yemi Alade"
+    },
+    {
+        "topic": "global",
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "possibleAnswers": [
+            "Japan",
+            "China",
+            "South Korea",
+            "Thailand"
+        ],
+        "correctAnswer": "Japan"
+    },
+    {
+        "topic": "global",
+        "question": "What is the capital city of Australia?",
+        "possibleAnswers": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "correctAnswer": "Canberra"
+    },
+    {
+        "topic": "global",
+        "question": "What is the largest ocean on Earth?",
+        "possibleAnswers": [
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arctic Ocean",
+            "Pacific Ocean"
+        ],
+        "correctAnswer": "Pacific Ocean"
+    },
+    {
+        "topic": "global",
+        "question": "Which country is famous for inventing pizza?",
+        "possibleAnswers": [
+            "Italy",
+            "France",
+            "Greece",
+            "Spain"
+        ],
+        "correctAnswer": "Italy"
+    },
+    {
+        "topic": "bible",
+        "question": "Who was the first man created according to the Bible?",
+        "possibleAnswers": [
+            "Adam",
+            "Noah",
+            "Moses",
+            "Abraham"
+        ],
+        "correctAnswer": "Adam"
+    },
+    {
+        "topic": "bible",
+        "question": "What was the name of the sea that Moses parted?",
+        "possibleAnswers": [
+            "Red Sea",
+            "Dead Sea",
+            "Mediterranean Sea",
+            "Nile River"
+        ],
+        "correctAnswer": "Red Sea"
+    },
+    {
+        "topic": "bible",
+        "question": "Who was swallowed by a great fish or whale?",
+        "possibleAnswers": [
+            "Jonah",
+            "Daniel",
+            "David",
+            "Paul"
+        ],
+        "correctAnswer": "Jonah"
+    },
+    {
+        "topic": "bible",
+        "question": "Which book of the Bible contains the Ten Commandments?",
+        "possibleAnswers": [
+            "Exodus",
+            "Genesis",
+            "Leviticus",
+            "Deuteronomy"
+        ],
+        "correctAnswer": "Exodus"
+    },
+    {
+        "topic": "bible",
+        "question": "Who is known for his wisdom and wrote many proverbs?",
+        "possibleAnswers": [
+            "Solomon",
+            "David",
+            "Isaiah",
+            "Elijah"
+        ],
+        "correctAnswer": "Solomon"
+    },
+    {
+        "topic": "cartoons",
+        "question": "What is the name of the main character in *SpongeBob SquarePants*?",
+        "possibleAnswers": [
+            "Patrick",
+            "Sandy",
+            "Squidward",
+            "SpongeBob"
+        ],
+        "correctAnswer": "SpongeBob"
+    },
+    {
+        "topic": "cartoons",
+        "question": "Which cartoon character is known for saying 'What's up, Doc?'",
+        "possibleAnswers": [
+            "Bugs Bunny",
+            "Daffy Duck",
+            "Porky Pig",
+            "Elmer Fudd"
+        ],
+        "correctAnswer": "Bugs Bunny"
+    },
+    {
+        "topic": "cartoons",
+        "question": "In *The Simpsons*, what is the name of Homer Simpson's wife?",
+        "possibleAnswers": [
+            "Marge",
+            "Lisa",
+            "Maggie",
+            "Selma"
+        ],
+        "correctAnswer": "Marge"
+    },
+    {
+        "topic": "cartoons",
+        "question": "Which animated series features a character named Rick Sanchez?",
+        "possibleAnswers": [
+            "Family Guy",
+            "Rick and Morty",
+            "South Park",
+            "Bob's Burgers"
+        ],
+        "correctAnswer": "Rick and Morty"
+    },
+    {
+        "topic": "cartoons",
+        "question": "What is the name of the superhero alter ego of Bruce Wayne?",
+        "possibleAnswers": [
+            "Spider-Man",
+            "Superman",
+            "Batman",
+            "Iron Man"
+        ],
+        "correctAnswer": "Batman"
+    },
+    {
+        "topic": "cartoons",
+        "question": "In *Tom and Jerry*, which character is always trying to catch the other?",
+        "possibleAnswers": [
+            "Tom",
+            "Jerry",
+            "Spike",
+            "Tyke"
+        ],
+        "correctAnswer": "Tom"
+    },
+    {
+        "topic": "cartoons",
+        "question": "Which animated show features a group of crime-fighting teenage superheroes known as the Titans?",
+        "possibleAnswers": [
+            "Teen Titans",
+            "Power Rangers",
+            "Teenage Mutant Ninja Turtles",
+            "X-Men"
+        ],
+        "correctAnswer": "Teen Titans"
+    },
+    {
+        "topic": "cartoons",
+        "question": "In *Adventure Time*, what is the name of the boy who can stretch his body into any shape?",
+        "possibleAnswers": [
+            "Finn",
+            "Jake",
+            "BMO",
+            "Princess Bubblegum"
+        ],
+        "correctAnswer": "Jake"
+    },
+    {
+        "topic": "cartoons",
+        "question": "What is the name of the yellow sponge who lives in a pineapple under the sea?",
+        "possibleAnswers": [
+            "Patrick",
+            "SpongeBob",
+            "Squidward",
+            "Mr. Krabs"
+        ],
+        "correctAnswer": "SpongeBob"
+    },
+    {
+        "topic": "cartoons",
+        "question": "Which classic cartoon character is known for his red shoes and doghouse?",
+        "possibleAnswers": [
+            "Mickey Mouse",
+            "Donald Duck",
+            "Goofy",
+            "Snoopy"
+        ],
+        "correctAnswer": "Snoopy"
+    }
+]
